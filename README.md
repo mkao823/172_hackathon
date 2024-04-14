@@ -32,7 +32,11 @@ pip install -r requirements.txt
 
 3. Set environmnent variables
 
+Mac/Linux
 export OPENAI_API_KEY='your_openai_api_key_here'
+
+Windows
+set OPENAI_API_KEY='your_openai_api_key_here'
 
 ### Usage
 Run the application using the following command:
