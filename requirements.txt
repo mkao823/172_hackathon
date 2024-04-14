@@ -1,0 +1,3 @@
+pip install langchain
+pip install pdfminer.six
+pip install gensim
