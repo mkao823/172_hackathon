@@ -1,3 +1,4 @@
 langchain
 pdfminer.six
 gensim
+chromadb 
