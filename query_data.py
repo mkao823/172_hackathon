@@ -8,13 +8,13 @@ from langchain.prompts import ChatPromptTemplate
 CHROMA_PATH = "chroma"
 
 PROMPT_TEMPLATE = """
-Answer the question based only on the following context:
+Answer the question in complete and coherent sentences based only on the following context:
 
 {context}
 
 ---
 
-Answer the question based on the above context: {question}
+Answer the question in complete and coherent sentences based on the above context: {question}
 """
 
 
